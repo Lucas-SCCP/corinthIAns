@@ -1,8 +1,8 @@
 # corinthIAns
 
-Esse projeto tem como objetivo registrar o máximo que puder da história do 
-Sport Club Corinthians Paulista, desde os primeiros jogos nos anos 1910 até os
-mais recentes jogos e futuros.
+Esse projeto tem como objetivo criar uma inteligência artificial focada na história do
+Sport Club Corinthians Paulista, permitindo que o torcedor faça perguntas e converse com 
+a inteligência artificial e descubra mais detalhes sobre a história do Time do Povo.
 
 # Configurações
 
